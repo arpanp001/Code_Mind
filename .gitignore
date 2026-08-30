@@ -1,0 +1,30 @@
+# Environment secrets — NEVER commit these
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.pytest_cache/
+backend/.embedding_cache/
+
+# Database & storage — too large for git
+backend/chroma_db/
+backend/uploads/
+backend/codemind.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
