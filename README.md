@@ -503,7 +503,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**Built with ❤️ by [Arpan Patel](https://github.com/arpanp001)**
+**Built with ❤️ by [Arpan Pawar](https://github.com/arpanp001)**
 
 ⭐ Star this repo if you find it useful!
 
