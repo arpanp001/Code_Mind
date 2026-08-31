@@ -107,7 +107,7 @@ AI:   "JWT authentication is in src/auth/login.py (lines 42-67).
 
 ## 🚀 Live Demo
 
-🌐 **[https://codemind-arpan.vercel.app](https://codemind-arpan.vercel.app)**
+🌐 **[https://codemind-arpan.vercel.app](https://code-mind-nu.vercel.app)**
 
 Try it with these example repos:
 - `https://github.com/pallets/flask` — Flask web framework (206 files)
