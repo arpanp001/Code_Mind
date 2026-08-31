@@ -130,7 +130,7 @@ Try it with these example repos:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arpanp001/codemind.git
+git clone https://github.com/arpanp001/Code_Mind
 cd codemind
 ```
 
